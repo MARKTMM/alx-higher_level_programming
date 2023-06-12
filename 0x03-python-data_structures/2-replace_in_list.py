@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Function takes three arguments then simply replaces the element at the specified index with the new element
+# Function takes three arguments then simply replaces the element at the speci
 
 
 def replace_in_list(my_list, idx, element):
