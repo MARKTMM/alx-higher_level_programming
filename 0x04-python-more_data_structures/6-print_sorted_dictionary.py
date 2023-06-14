@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-"""a dictionary by ordered keys."""
-
 
 def print_sorted_dictionary(a_dictionary):
     sorted_key = sorted(a_dictionary)
